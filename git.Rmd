@@ -6,3 +6,16 @@ output: pdf_document
 ---
 
 Text answers suffice!
+
+Who is responsible for which functions?
+Julia is responsible for the functions: "summary.pem_cr" and "print.oem_cr"
+Philipp is responsible for the function:"pem_cr" although Julia had to add "}" at the end of the function for the function to be completed.
+
+Who contributed more to the code?
+Philipp changed the code 5 times and Julia 1 time, therefore Philipp contributed more.
+
+Who pushed more often?
+Philipp pushed more often.
+
+Do the two have a different style?
+Both have a simmilar style.
